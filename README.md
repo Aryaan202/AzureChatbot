@@ -17,14 +17,43 @@ COVID-19 chatbot uses the underlying technology of QnA maker service which will 
 <h2> Knowledge Base Using Azure QnA Maker</h2>
 
 ![plot](https://github.com/Aryaan202/AzureChatbot/blob/main/Screenshots/1.png)
+
+
 Here is the proof of the knowledgebase present and all the questions in it corresponds to the csv file uploaded
 ![plot](https://github.com/Aryaan202/AzureChatbot/blob/main/Screenshots/2.png)
+
 
 HTTPS Request url : POST /knowledgebases/d822ee9c-7004-4b07-a6eb-5d374ad013c8/generateAnswer
 Host: https://covid-qna-final.azurewebsites.net/qnamaker
 Authorization: EndpointKey 02c645ce-bfd3-4d7c-8d8a-87a0c8ae4fc7
 Content-Type: application/json
 {"question":"<Your question>"}
+  
+  
+  <h2> Publishing The bot using Azure Chatbot (Proof Screenshots) </h2>
+  ![3](https://user-images.githubusercontent.com/86037152/176742746-f21e9ee3-c5ee-45f1-a639-c68aca397526.png)
+  
+  Framework -
+  ![5](https://user-images.githubusercontent.com/86037152/176742828-173ebc44-16ab-476b-a507-7d23a57f4468.png)
+![6](https://user-images.githubusercontent.com/86037152/176742834-e528c2da-cb1d-4fe6-91ed-ef3196d2e21f.png)
+  
+  Active Channels - 
+  
+![4](https://user-images.githubusercontent.com/86037152/176742875-73b2c3cc-086a-4311-8a21-524b00989c1b.png)
+  
+  Deployment Details - 
+  
+  ![7](https://user-images.githubusercontent.com/86037152/176742947-72af33ce-81c7-407b-aa0c-7f63fe3a30e4.png)
+
+  
+  <h2> Azure Storage Blob (Static Web Page) </h2>
+  
+
+  ![8](https://user-images.githubusercontent.com/86037152/176743087-8bd4964f-bfce-477f-8e5b-e79423097459.png)
+  
+![9](https://user-images.githubusercontent.com/86037152/176743500-01b95f68-8664-4e01-8da2-8640e70dc4a9.png)
+
+
 
 
 
