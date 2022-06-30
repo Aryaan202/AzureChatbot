@@ -54,11 +54,14 @@ Content-Type: application/json
 ![9](https://user-images.githubusercontent.com/86037152/176743500-01b95f68-8664-4e01-8da2-8640e70dc4a9.png)
 
 
-
-
-
 Check the QnA File to check for the eligible questions..
 and wait for 1-2 minutes after startup for responsiveness.
 
 To Access the project - 
 Go to link  -- https://aryan2022.z13.web.core.windows.net/
+  
+  <h2> Microsoft Azure Dependencies</h2>
+    ![Dependencies](https://user-images.githubusercontent.com/86037152/176744847-388bdf1f-9e79-4114-880a-a95ece6ddaf3.png)
+  The Modules mentioned in the Project file are core connection modules for Azure QnA Bot for this project and use used for deployment and is Mentioned in the file of
+  QnAbot project in the Bot Source code branch of the main repository.
+  
