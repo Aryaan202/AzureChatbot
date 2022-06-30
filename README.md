@@ -16,9 +16,9 @@ COVID-19 chatbot uses the underlying technology of QnA maker service which will 
 
 <h2> Knowledge Base Using Azure QnA Maker</h2>
 
-https://github.com/Aryaan202/AzureChatbot/blob/main/Screenshots/1.png
+![plot](https://github.com/Aryaan202/AzureChatbot/blob/main/Screenshots/1.png)
 Here is the proof of the knowledgebase present and all the questions in it corresponds to the csv file uploaded
-https://github.com/Aryaan202/AzureChatbot/blob/main/Screenshots/2.png
+![plot](https://github.com/Aryaan202/AzureChatbot/blob/main/Screenshots/2.png)
 
 HTTPS Request url : POST /knowledgebases/d822ee9c-7004-4b07-a6eb-5d374ad013c8/generateAnswer
 Host: https://covid-qna-final.azurewebsites.net/qnamaker
