@@ -21,6 +21,8 @@ COVID-19 chatbot uses the underlying technology of QnA maker service which will 
 
 Here is the proof of the knowledgebase present and all the questions in it corresponds to the csv file uploaded
 ![plot](https://github.com/Aryaan202/AzureChatbot/blob/main/Screenshots/2.png)
+![11](https://user-images.githubusercontent.com/86037152/176746075-9d8fae82-c70c-41b7-adcf-780daa416924.png)
+
 
 
 HTTPS Request url : POST /knowledgebases/d822ee9c-7004-4b07-a6eb-5d374ad013c8/generateAnswer
@@ -61,9 +63,16 @@ To Access the project -
 Go to link  -- https://aryan2022.z13.web.core.windows.net/
   
   <h2> Microsoft Azure Dependencies</h2>
-  ![Dependencies](https://user-images.githubusercontent.com/86037152/176745474-5bc0fb11-9bfb-4013-8d0e-1c9bb6a47d55.png)
-
-    
+  
   The Modules mentioned in the Project file are core connection modules for Azure QnA Bot for this project and use used for deployment and is Mentioned in the file of
   QnAbot project in the Bot Source code branch of the main repository.
+  ![10](https://user-images.githubusercontent.com/86037152/176745813-fc4fcf95-2fd4-41fd-8359-f00f92b81ad8.png)
+  
+  Working - 
+  
+
+https://user-images.githubusercontent.com/86037152/176748899-c9a606e2-9340-4151-99c7-70048e9c40bf.mp4
+
+
+
   
