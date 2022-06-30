@@ -50,6 +50,9 @@ Content-Type: application/json
   
   <h2> Azure Storage Blob (Static Web Page) </h2>
   
+  The Deployment of the website on Azure Static Webpages inside the Storage Blob is simply done by uploading the written code for website to
+  the static webpage section and then the uploaded website can be accessed through the mentioned primary endpoint.
+  
 
   ![8](https://user-images.githubusercontent.com/86037152/176743087-8bd4964f-bfce-477f-8e5b-e79423097459.png)
   
